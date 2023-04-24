@@ -36,4 +36,4 @@ I'm **Sahil Garg** , 18 years old and currently pursuing *CSE* at [IIT GOA](http
 
 ## Connect with me: 
 
-- Instagram 
+  - Instagram - [![Instagram](https://github.com/sahilgarg07/sahilgarg07.github.io/raw/main/Instagram_icon.png.webp)](https://www.instagram.com/sahilgarg._.07/)
