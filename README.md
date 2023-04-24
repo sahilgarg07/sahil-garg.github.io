@@ -2,7 +2,7 @@
 
 ***
 
-![Sahil Garg!](https://github.com/sahilgarg07/sahilgarg07.github.io/raw/main/IMG_20230401_123527_037.jpg?raw=true)
+![Sahil Garg!](https://github.com/sahilgarg07/sahilgarg07.github.io/raw/main/IMG_3719.png)
 
 ## About
 
@@ -16,4 +16,24 @@ I'm **Sahil Garg** , 18 years old and currently pursuing *CSE* at [IIT GOA](http
 > - Loves playing *basketball*.
 > - Enjoys *travelling*.
 
+## Qualifications
 
+***
+
+- Performance in previous classes
+
+| Sr. No. | Class    | School                   | Marks |
+| --------|----------| -------------------------| ------|
+| 1       | Class 10 | Shamrock Christian School| 96.4% |
+| 2       | Class 12 | Shamrock Christian School| 94%   |
+
+- Performance in Competitive Exams
+
+| Sr. No. | Exam        | All India Rank |
+| --------|-------------| ---------------| 
+| 1       | JEE Mains   | 14146          | 
+| 2       | JEE Advance | 3363           | 
+
+## Connect with me: 
+
+- Instagram 
