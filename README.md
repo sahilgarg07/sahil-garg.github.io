@@ -34,6 +34,3 @@ I'm **Sahil Garg** , 18 years old and currently pursuing *CSE* at [IIT GOA](http
 | 1       | JEE Mains   | 14146          | 
 | 2       | JEE Advance | 3363           | 
 
-## Connect with me: 
-
-  - Instagram - [![Instagram](https://github.com/sahilgarg07/sahilgarg07.github.io/raw/main/Instagram_icon.png.webp)](https://www.instagram.com/sahilgarg._.07/)
